@@ -1,0 +1,58 @@
+{
+  "plantSubDiseasetitle": "Identify Plant\n     Disease",
+  "@plantSubDiseasetitle": {
+    "description": "The title that appears at the top of the plant screen"
+  },
+  "selectPlant": "Select Plant",
+  "@selectPlant": {
+    "description": "Label for selecting a plant"
+  },
+  "berryLeaf": "Berry Leaf",
+  "@berryLeaf": {
+    "description": "Label for the berry leaf image"
+  },
+  "guavaLeaf": "Guava Leaf",
+  "@guavaLeaf": {
+    "description": "Label for the guava leaf image"
+  },
+  "orangeLeaf": "Orange Leaf",
+  "@orangeLeaf": {
+    "description": "Label for the orange leaf image"
+  },
+  "tomatoLeaf": "Tomato Leaf",
+  "@tomatoLeaf": {
+    "description": "Label for the tomato leaf image"
+  },
+  "animalSubDiseasetitle": "Identify Animals\n       Disease",
+  "@animalSubDiseasetitle": {
+    "description": "The title that appears at the top of the animal screen"
+  },
+  "selectAnimal": "Select Animal",
+  "@selectAnimal": {
+    "description": "Label for selecting an animal"
+  },
+  "donkey": "Donkey",
+  "@donkey": {
+    "description": "Label for the donkey image"
+  },
+  "horse": "Horse",
+  "@horse": {
+    "description": "Label for the horse image"
+  },
+  "cow": "Cow",
+  "@cow": {
+    "description": "Label for the cow image"
+  },
+  "buffalo": "Buffalo",
+  "@buffalo": {
+    "description": "Label for the buffalo image"
+  },
+  "cat": "Cat",
+  "@cat": {
+    "description": "Label for the cat image"
+  },
+  "cows": "Cows",
+  "@cows": {
+    "description": "Label for the group of cows image"
+  }
+}

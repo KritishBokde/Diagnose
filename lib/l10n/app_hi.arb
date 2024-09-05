@@ -1,0 +1,58 @@
+{
+  "plantSubDiseasetitle": "फसल की बीमारी\n     पहचान करें",
+  "@plantSubDiseasetitle": {
+    "description": "पौधे की स्क्रीन के शीर्ष पर दिखाई देने वाला शीर्षक"
+  },
+  "selectPlant": "पौधा चुनें",
+  "@selectPlant": {
+    "description": "पौधा चुनने के लिए लेबल"
+  },
+  "berryLeaf": "बेरी पत्ता",
+  "@berryLeaf": {
+    "description": "बेरी पत्ते की छवि के लिए लेबल"
+  },
+  "guavaLeaf": "अमरूद पत्ता",
+  "@guavaLeaf": {
+    "description": "अमरूद पत्ते की छवि के लिए लेबल"
+  },
+  "orangeLeaf": "संतरा पत्ता",
+  "@orangeLeaf": {
+    "description": "संतरा पत्ते की छवि के लिए लेबल"
+  },
+  "tomatoLeaf": "टमाटर पत्ता",
+  "@tomatoLeaf": {
+    "description": "टमाटर पत्ते की छवि के लिए लेबल"
+  },
+  "animalSubDiseasetitle": "जानवरों की बीमारी\n       पहचानें",
+  "@animalSubDiseasetitle": {
+    "description": "जानवर स्क्रीन के शीर्ष पर दिखाई देने वाला शीर्षक"
+  },
+  "selectAnimal": "जानवर चुनें",
+  "@selectAnimal": {
+    "description": "जानवर चुनने के लिए लेबल"
+  },
+  "donkey": "गधा",
+  "@donkey": {
+    "description": "गधे की छवि के लिए लेबल"
+  },
+  "horse": "घोड़ा",
+  "@horse": {
+    "description": "घोड़े की छवि के लिए लेबल"
+  },
+  "cow": "गाय",
+  "@cow": {
+    "description": "गाय की छवि के लिए लेबल"
+  },
+  "buffalo": "भैंस",
+  "@buffalo": {
+    "description": "भैंस की छवि के लिए लेबल"
+  },
+  "cat": "बिल्ली",
+  "@cat": {
+    "description": "बिल्ली की छवि के लिए लेबल"
+  },
+  "cows": "गायें",
+  "@cows": {
+    "description": "गायों के समूह की छवि के लिए लेबल"
+  }
+}
